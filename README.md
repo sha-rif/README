@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data analyst from Brazil</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@sharif.neto](https://medium.com/@sharif.neto)
-
+  
 - 💬 Ask me about **python, SQL and data analytics tools**
 
 - 📫 How to reach me **sharif.neto@outlook.com**
